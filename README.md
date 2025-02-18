@@ -2,9 +2,9 @@
    <br>
    <img src="assets/1.png">
    <br>
-  <p>2. overview</p> 
+  <p>2. predicting image while taking a input of previous prediction</p> 
    <img src="2.png">
    <br>
-   <p> code </p> 
+   <p> model </p> 
    <img src="assets/3.png">
    <br>
